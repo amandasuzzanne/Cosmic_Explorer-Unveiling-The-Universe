@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+:root{
+    --primary-color: #edf2fc; 
+    --secondary-color: #212121;
+}
+
+.dark-mode {
+    --primary-color: #000106; 
+    --secondary-color: #fff;
+}
+
+header{
+    width: 100%;
+    background-color: var(--primary-color);    
+    position: relative;
+}
+  
+.logo {
+    width: 40px;
+    cursor: pointer;
+}
+
+nav {
+    width: 98%;
+    margin: auto;
+    padding: 10px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul {
+    flex: 1;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: var(--secondary-color);
+}
+
+nav ul li a:hover{
+    color: #2a0357;
+}
+
+#mode {
+    width: 30px;
+    cursor: pointer;
+}
+
+
+main {
+    /* background-image: url("./images/background.jpg");  */
+    background-color: rgb(223, 241, 241);
+    /* width: auto; */
+    /* background-color: chocolate; */
+
+}
+
+#home {
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* width: 100%; */
+  
+        display: grid;
+        grid-template-columns: 1fr 3fr 1fr;
+    
+}
+
+.astronaut-container {
+    /* width: 15%; */
+    position: relative;
+}
+
+.astronaut {
+    width: 700px;
+    height: 650px;
+    background-image: url(./images/austronaut.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 320px;
+    left: 300px;
+    transform: translate(-50%, -50%);
+    animation: float-austronaut 8s linear infinite;
+}
+
+@keyframes float-austronaut {
+    0% {
+        transform: translate(-50%, -50%) translateY(-50px);
+    }
+    50% {
+        transform: translate(-50%, -50%) translateY(50px);
+    }
+    100% {
+        transform: translate(-50%, -50%) translateY(-50px);
+    }
+}
+
+.home-content {
+    /* width: 40%; */
+
+    /* margin-left: 8%; */
+    margin-top: 12%;
+    /* background-color: chocolate; */
+
+}
+
+.home-content h1 {
+    font-size: 50px;
+    color: var(--secondary-color);
+    margin-bottom: 20px;
+}
+
+span {
+    color: #2a0357;
+}
+
+.home-content p {
+    color: var(--secondary-color);
+    line-height: 22px;
+}
+
+.moon-container {
+    /* width: 15%; */
+    position: relative;
+    /* background-color: chocolate; */
+    /* margin-left: 15%; */
+
+}
+
+.moon {
+    width: 400px;
+    height: 700px;
+    background-image: url(./images/moon2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    top: 200px;
+}
+
+footer {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 20px;
+    text-align: center;
+}
