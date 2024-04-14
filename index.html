@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cosmic Explorer:Unveiling The Universe</title>
     <link rel="stylesheet" href="index.css">
 </head>
+
 <body>
     <header>
-            <nav>
-                <img src="images/logo.png" alt="logo image" class="logo">
-                <ul>
-                    <li><a href="#satellite">Satellite Imagery</a></li>
-                    <li><a href="#weather">Weather & Climate</a></li>
-                    <li><a href="#apod">Astronomy Picture of the Day</a></li>
-                    <li><a href="#exoplanets">Exoplanet Data</a></li>
-                </ul>
-                <img src="images/moon.png" alt="moon image" id="mode">
+        <nav>
+            <img src="images/logo.png" alt="logo image" class="logo">
+            <ul>
+                <li><a href="#satellite">Satellite Imagery</a></li>
+                <li><a href="#weather">Weather & Climate</a></li>
+                <li><a href="#apod">Astronomy Picture of the Day</a></li>
+                <li><a href="#exoplanets">Exoplanet Data</a></li>
+            </ul>
+            <img src="images/moon.png" alt="moon image" id="mode">
 
-            </nav>
-            
+        </nav>
+
     </header>
 
     <main>
@@ -29,20 +31,32 @@
                 </div>
             </div>
             <div class="home-content">
-                <h1><span>Cosmic Explorer:</span><br> Unveiling the Universe</h1>
-                <p>
-                   Lessssssgoooooooooooooo! 
+                <h1>Cosmic Explorer:<br> Unveiling the Universe</h1>
+                <h3>Mystery: What came bofore the big bang?</h3>
+                <p> 
+                    IT WAS gone almost as soon as it came, so it is hardly surprising that we<br>
+                    didn't even notice it. Only in 20007, six years after the event did Duncan<br>
+                    Lorimer at West Virginia University and his student David Markey.<br>
+                    They were scouring archived data from the Parkes radio telescope located in<br>
+                    South Wales, Australia, when they notices a burst of radio waves approaching with<br>
+                    unimaginable felocity. Lasting less than 5 milliseconds it hit Earth in<br>
+                    20001, releasing roughly as much energy as the sun splits out over five billion years.
                 </p>
-            </div> 
+            </div>
             <div class="moon-container">
                 <div class="moon">
                 </div>
             </div>
         </section>
 
-        <section id="satellite">
 
+        <section id="satellite">
+            <!-- Satellite content will be dynamically inserted here -->
+            <ul id="satellite-date" class="date-list"></ul>
+            <div id="satellite-image"></div>
+            <div id="satellite-details"></div>
         </section>
+
 
         <section id="weather">
             <div class="tab">
@@ -82,20 +96,28 @@
 
         </section>
 
-        <section id="apod">
 
+        <section id="apod">
+            <ul id="apod-date" class="date-list"></ul>
+            <div id="apod-image"></div>
+            <div id="apod-details"></div>
+            <button id="previous">Previous</button>
+            <button id="next">Next</button>
         </section>
 
+        
         <section id="exoplanets">
-
-        </section>         
+            <h1>Exoplanets</h1>
+            <div id="extroplanets-list"></div>
+        </section>
     </main>
 
     <footer>
         <p>&copy; 2024 Cosmic Explorer: Unveiling the Universe | Credits: NASA</p>
     </footer>
 
-    <script src="index.js"></script>
+    <script src="index.js" defer></script>
 
 </body>
+
 </html>
