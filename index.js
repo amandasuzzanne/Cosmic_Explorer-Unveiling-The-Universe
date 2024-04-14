@@ -33,12 +33,17 @@ function displaySatelliteDetailsByDate(selectedDate) {
           // Clear previous content
           const dateList = document.getElementById("satellite-date");
           const imageSection = document.getElementById("satellite-image");
-          const detailsSection = document.getElementById("satellite-details");
+          const caption = document.getElementById("caption");
+          const distanceToEarth = document.getElementById("distance-to-earth");
+          const distanceToSun = document.getElementById("distance-to-sun");
+
           dateList.innerHTML = '';
           imageSection.innerHTML = '';
-          detailsSection.innerHTML = '';
+          caption.textContent = '';
+          distanceToEarth.textContent = '';
+          distanceToSun.textContent = '';
 
-          // Display date for each satellite
+          // Display date and image for each satellite
           satellites.forEach(satellite => {
               // Display date
               const dateItem = document.createElement("li");
@@ -53,23 +58,15 @@ function displaySatelliteDetailsByDate(selectedDate) {
 
               // Display image and details if date matches selected date
               if (satellite.date === selectedDate) {
-                  // Display image
-                  const imageDiv = document.createElement("div");
                   const image = document.createElement("img");
                   image.src = satellite.image;
                   image.alt = "Satellite Image";
-                  imageDiv.appendChild(image);
-                  imageSection.appendChild(imageDiv);
+                  imageSection.appendChild(image);
 
-                  // Display details
-                  const detailsDiv = document.createElement("div");
-                  detailsDiv.innerHTML = `
-                      <h2>Satellite Imagery</h2>
-                      <p>Caption: ${satellite.caption}</p>
-                      <p>Distance to Earth: ${satellite['distance to earth']}</p>
-                      <p>Distance to Sun: ${satellite['distance to sun']}</p>
-                  `;
-                  detailsSection.appendChild(detailsDiv);
+                  // Set caption and distance to Earth and Sun
+                  distanceToEarth.textContent = `Distance to Earth: ${satellite['distance-to-earth']}`;
+                  distanceToSun.textContent = `Distance to Sun: ${satellite['distance-to-sun']}`;
+                  caption.textContent = satellite.caption;
               }
           });
       }); 
