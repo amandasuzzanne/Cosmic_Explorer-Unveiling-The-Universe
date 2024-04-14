@@ -1,0 +1,369 @@
+{
+    "satellite": [
+        {
+            "id": "1",
+            "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+            "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/08/png/epic_1b_20240408173250.png",
+            "date": "2024-04-08",
+            "distance to earth": "981,998 miles",
+            "distance to sun": "92,110,371 miles"
+        },
+        {
+            "id": "2",
+            "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+            "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/07/png/epic_1b_20240407115250.png",
+            "date": "2024-04-07",
+            "distance to earth": "980,701 miles",
+            "distance to sun": "92,075,375 miles"
+        },
+        {
+            "id": "3",
+            "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+            "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/06/png/epic_1b_20240406113407.png",
+            "date": "2024-04-06",
+            "distance to earth": "979,693 miles",
+            "distance to sun": "92,053,331 miles"
+        },
+        {
+            "id": "4",
+            "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+            "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/04/png/epic_1b_20240404034434.png",
+            "date": "2024-04-05",
+            "distance to earth": "976,376 miles",
+            "distance to sun": "91,994,048 miles"
+        },
+        {
+            "id": "4",
+            "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+            "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/03/png/epic_1b_20240403054158.png",
+            "date": "2024-04-04",
+            "distance to earth": "974,891 miles",
+            "distance to sun": "91,970,706 miles"
+        }, 
+        {
+            "id": "",
+            "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
+            "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/02/png/epic_1b_20240402003634.png",
+            "date": "2024-04-03",
+            "distance to earth": "972,849 miles",
+            "distance to sun": "91,9393,957 miles"
+        }
+    ],
+
+
+    
+    "solar-flare": [
+        {
+            "date": "2024-04-01", 
+             "intensity": 3.5           
+        },
+        {            
+            "date": "2024-04-02", 
+            "intensity": 4.2            
+        },
+        {            
+            "date": "2024-04-03", 
+            "intensity": 3.9            
+        },
+        {            
+            "date": "2024-04-04", 
+            "intensity": 4.5            
+        },
+        {            
+            "date": "2024-04-05", 
+            "intensity": 3.8            
+        },
+        {
+            "date": "2024-04-06", 
+            "intensity": 4.1
+        },
+        {           
+            "date": "2024-04-07", 
+            "intensity": 4.3            
+        },
+        {           
+            "date": "2024-04-08", 
+            "intensity": 3.7            
+        },
+        {           
+            "date": "2024-04-09", 
+            "intensity": 4.0            
+        },
+        {            
+            "date": "2024-04-10", 
+            "intensity": 4.4            
+        }],
+
+
+
+    "geomagnetic-storm": [
+        {
+            "date": "2024-04-01", 
+            "magnitude": 5.7
+        },
+        {
+            "date": "2024-04-02", 
+            "magnitude": 6.2
+        },
+        {
+            "date": "2024-04-03", 
+            "magnitude": 5.9
+        },                      
+        {
+            "date": "2024-04-04", 
+            "magnitude": 6.5
+        },
+        {
+            "date": "2024-04-05", 
+            "magnitude": 5.8
+        },
+        {
+            "date": "2024-04-06", 
+            "magnitude": 6.1             
+        },
+        {
+            "date": "2024-04-07", 
+            "magnitude": 6.3
+        },
+        {
+            "date": "2024-04-08", 
+            "magnitude": 5.7            
+        },
+        {           
+            "date": "2024-04-09", 
+            "magnitude": 6.0
+        },
+        {
+            "date": "2024-04-10", 
+            "magnitude": 6.4
+        }
+    ],
+
+
+
+"apod": [
+        {
+            "id" : "1",
+            "image": "../images/potd/potd1.jpg",
+            "name" : "Eclipse in Seven",
+            "description": "Start at the upper left above and you can follow the progress of April 8's total eclipse of the Sun in seven sharp, separate exposures. The image sequence was recorded with a telescope and camera located within the narrow path of totality as the Moon's shadow swept across Newport, Vermont, USA. At center is a spectacular view of the solar corona. The tenuous outer atmosphere of the Sun is only easily visible to the eye in clear dark skies during the total eclipse phase. Seen from Newport, the total phase for this solar eclipse lasted about 3 minutes and 26 seconds.",
+            "date": "2024-04-08"
+        },
+        {
+            "id" : "2",
+            "image": "../images/potd/potd2.jpg",
+            "name" : "Planets Around a Total Eclipse",
+            "description": "What wonders appear when the Moon blocks the Sun? For many eager observers of Monday’s total eclipse of the Sun, the suddenly dark sky included the expected corona and two (perhaps surprise) planets: Venus and Jupiter. Normally, in recent days, Venus is visible only in the morning when the Sun and Jupiter are below the horizon, while Jupiter appears bright only in the evening. On Monday, though, for well-placed observers, both planets became easily visible during the day right in line with the totally eclipsed Sun. This line was captured Monday afternoon in the featured image from Mount Nebo, Arkansas, USA, along with a line of curious observers — and a picturesque tree.",
+            "date": "2024-04-09"
+        },
+        {
+            "id" : "3",
+            "image": "../images/potd/potd3.jpg",
+            "name" : "Moon's Shadow over Lake Magog",
+            "description": "Captured in this snapshot, the shadow of the Moon came to Lake Magog, Quebec, North America, planet Earth on April 8. For the lakeside eclipse chasers, the much anticipated total solar eclipse was a spectacle to behold in briefly dark, but clear skies. Of course Lake Magog was one of the last places to be visited by the Moon's shadow. The narrow path of totality for the 2024 total solar eclipse swept from Mexico's Pacific Coast north and eastward through the US and Canada. But a partial eclipse was visible across most of the North American continent.",
+            "date": "2024-04-10"
+        },
+        {
+            "id" : "4",
+            "image": "../images/potd/potd4.jpg",
+            "name" : "The Changing Ion Tail of Comet Pons-Brooks",
+            "description": "How does a comet tail change? It depends on the comet. The ion tail of Comet 12P/Pons–Brooks has been changing markedly, as detailed in the featured image sequenced over nine days from March 6 to 14 (top to bottom). On some days, the comet's ion tail was relatively long and complex, but not every day. Reasons for tail changes include the rate of ejection of material from the comet's nucleus, the strength and complexity of the passing solar wind, and the rotation rate of the comet. Over the course of a week, apparent changes even include a change of perspective from the Earth. In general, a comet's ion tail will point away from the Sun, as gas expelled is pushed out by the Sun's wind. Today, Pons-Brooks may become a rare comet suddenly visible in the middle of the day for those able to see the Sun totally eclipsed by the Moon.",
+            "date": "2024-04-11"
+        },
+        {
+            "id" : "5",
+            "image": "../images/potd/potd5.jpg",
+            "name" : "A Total Solar Eclipse over Wyoming",
+            "description": "Will the sky be clear enough to see the eclipse? This question is already on the minds of many North Americans hoping to see tomorrow's solar eclipse. This question was also on the mind of many people attempting to see the total solar eclipse that crossed North America in August 2017. Then, the path of total darkness shot across the mainland of the USA from coast to coast, from Oregon to South Carolina -- but, like tomorrow's event, a partial eclipse occurred above most of North America. Unfortunately, in 2017, many locations saw predominantly clouds. One location that did not was a bank of the Green River Lakes, Wyoming. Intermittent clouds were far enough away to allow the center image of the featured composite sequence to be taken, an image that shows the corona of the Sun extending out past the central dark Moon that blocks our familiar Sun. The surrounding images show the partial phases of the solar eclipse both before and after totality.",
+            "date": "2024-04-12"
+        },
+        {
+            "id" : "6",
+            "image": "../images/potd/potd6.jpg",
+            "name" : "Unwinding M51",
+            "description": "The arms of a grand design spiral galaxy 60,000 light-years across are unwound in this digital transformation of the magnificent 2005 Hubble Space Telescope portrait of M51. In fact, M51 is one of the original spiral nebulae, its winding arms described by a mathematical curve known as a logarithmic spiral, a spiral whose separation grows in a geometric way with increasing distance from the center. Applying logarithms to shift the pixel coordinates in the Hubble image relative to the center of M51 maps the galaxy's spiral arms into diagonal straight lines. The transformed image dramatically shows the arms themselves are traced by star formation, lined with pinkish starforming regions and young blue star clusters. Companion galaxy NGC 5195 (top) seems to alter the track of the arm in front of it though, and itself remains relatively unaffected by this unwinding of M51. Also known as the spira mirabilis, logarthimic spirals can be found in nature on all scales. For example, logarithmic spirals can also describe hurricanes, the tracks of subatomic particles in a bubble chamber and, of course, cauliflower.",
+            "date": "2024-04-13"
+        },
+        {
+            "id" : "7",
+            "image": "../images/potd/potd7.jpg",
+            "name" : "The Solar Corona Unwrapped",
+            "description": "Changes in the alluring solar corona are detailed in this creative composite image mapping the dynamic outer atmosphere of the Sun during two separate total solar eclipses. Unwrapped from the complete circle of the eclipsed Sun's edge to a rectangle and mirrored, the entire solar corona is shown during the 2017 eclipse (bottom) seen from Jackson Hole, Wyoming, and the 2023 eclipse from Exmouth, Western Australia. While the 2017 eclipse was near a minimum in the Sun's 11 year activity cycle, the 2023 eclipse was closer to solar maximum. The 2023 solar corona hints at the dramatically different character of the active Sun, with many streamers and pinkish prominences arising along the solar limb. Of course, the solar corona is only easily visible to the eye while standing in the shadow of the Moon.",
+            "date": "2024-04-14"
+        },
+        {
+            "id" : "8",
+            "image": "../images/potd/potd8.jpg",
+            "name" : "Comet Pons-Brooks at Night",
+            "description": "In dark evening skies over June Lake, northern hemisphere, planet Earth, Comet 12P/Pons-Brooks stood just above the western horizon on March 30. Its twisted turbulent ion tail and diffuse greenish coma are captured in this two degree wide telescopic field of view along with bright yellowish star Hamal also known as Alpha Arietis. Now Pons-Brooks has moved out of the northern night though, approaching perihelion on April 21. On April 8 you might still spot the comet in daytime skies. But to do it, you will have to stand in the path of totality and look away from the spectacle of an alluring solar corona and totally eclipsed Sun.",
+            "date": "2024-04-15"
+        },
+        {
+            "id" : "9",
+            "name" : "Detailed View of a Solar Eclipse Corona",
+            "image": "../images/potd/potd9.jpg",
+            "description": "Only in the fleeting darkness of a total solar eclipse is the light of the solar corona easily visible. Normally overwhelmed by the bright solar disk, the expansive corona, the sun's outer atmosphere, is an alluring sight. But the subtle details and extreme ranges in the corona's brightness, although discernible to the eye, are notoriously difficult to photograph. Pictured here, however, using multiple images and digital processing, is a detailed image of the Sun's corona taken during the April 20, 2023 total solar eclipse from Exmouth, Australia. Clearly visible are intricate layers and glowing caustics of an ever changing mixture of hot gas and magnetic fields. Bright looping prominences appear pink just around the Sun's limb. A similar solar corona might be visible through clear skies in a narrow swath across the North America during the total solar eclipse that occurs just six days from today", 
+            "date": "2024-04-16"
+        },
+        {
+            "id" : "10",
+            "image": "../images/potd/potd10.jpg",
+            "name" : "Swirling Magnetic Field around Our Galaxy's Central Black Hole",
+            "description": "What's happening to the big black hole in the center of our galaxy? It is sucking in matter from a swirling disk -- a disk that is magnetized, it has now been confirmed. Specifically, the black hole's accretion disk has recently been seen to emit polarized light, radiation frequently associated with a magnetized source. Pictured here is a close-up of Sgr A*, our Galaxy's central black hole, taken by radio telescopes around the world participating in the Event Horizon Telescope (EHT) Collaboration. Superposed are illustrative curved lines indicating polarized light likely emitted from swirling magnetized gas that will soon fall into the 4+ million solar mass central black hole. The central part of this image is likely dark because little light-emitting gas is visible between us and the dark event horizon of the black hole. Continued EHT monitoring of this and M87's central black hole may yield new clues about the gravity of black holes and how infalling matter creates disks and jets.",
+            "date": "2024-04-17"
+        },
+        {
+            "id" : "11",
+            "image": "../images/potd/potd11.jpg",
+            "name" : "Total Solar Eclipse Below the Bottom of the World",
+            "description": "In late 2021 there was a total solar eclipse visible only at the end of the Earth. To capture the unusual phenomenon, airplanes took flight below the clouded seascape of Southern Ocean. The featured image shows one relatively spectacular capture where the bright spot is the outer corona of the Sun and the eclipsing Moon is seen as the dark spot in the center. A wing and engine of the airplane are visible across the left and bottom of the image, while another airplane observing the eclipse is visible on the far left. The dark area of the sky surrounding the eclipsed Sun is called a shadow cone. It is dark because you are looking down a long corridor of air shadowed by the Moon. A careful inspection of the eclipsed Sun will reveal the planet Mercury just to the right. You won't have to travel to the end of the Earth to see the next total solar eclipse. The total eclipse path will cross North America on 2024 April 8, just over one week from today.",
+            "date": "2024-04-18"
+        },
+        {
+            "id" : "12",
+            "image": "../images/potd/potd12.jpg",
+            "name" : "Medieval Astronomy from Melk Abbey",
+            "description": "Discovered by accident, this manuscript page provides graphical insight to astronomy in medieval times, before the Renaissance and the influence of Nicolaus Copernicus, Tycho de Brahe, Johannes Kepler, and Galileo. The intriguing page is from lecture notes on astronomy compiled by the monk Magister Wolfgang de Styria before the year 1490. The top panels clearly illustrate the necessary geometry for a lunar (left) and solar eclipse in the Earth-centered Ptolemaic system. At lower left is a diagram of the Ptolemaic view of the Solar System with text at the upper right to explain the movement of the planets according to Ptolemy's geocentric model. At the lower right is a chart to calculate the date of Easter Sunday in the Julian calendar. The illustrated manuscript page was found at historic Melk Abbey in Austria.",
+            "date": "2024-04-19"
+        },
+        {
+            "id" : "13",
+            "image": "../images/potd/potd13.jpg",
+            "name" : "Galileo's Europa",
+            "description": "Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean. Galileo's Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa's long curving fractures hint at the subsurface liquid water. The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. The Juno spacecraft currently in Jovian orbit has also made repeated flybys of the water world, returning images along with data exploring Europa's habitability. This October will see the launch of the NASA's Europa Clipper on a voyage of exploration. The spacecraft will make nearly 50 flybys, approaching to within 25 kilometers of Europa's icy surface.",
+            "date": "2024-04-20"
+        },
+        {
+            "id" : "14",
+            "image": "../images/potd/potd14.jpg",
+            "name" : "Millions of Stars in Omega Centauri",
+            "description": "Globular star cluster Omega Centauri, also known as NGC 5139, is 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp, color telescopic view.",
+            "date": "2024-04-21"
+        },
+        {
+            "id" : "15",
+            "image": "../images/potd/potd15.jpg",
+            "name" : "Comet Pons-Brooks' Ion Tail",
+            "description": "Comet Pons-Brooks has quite a tail to tell. First discovered in 1385, this erupting dirty snowball loops back into our inner Solar System every 71 years and, this time, is starting to put on a show for deep camera exposures. In the featured picture, the light blue stream is the ion tail which consists of charged molecules pushed away from the comet's nucleus by the solar wind. The ion tail, shaped by the Sun's wind and the comet's core's rotation, always points away from the Sun. Comet 12P/Pons Brooks is now visible with binoculars in the early evening sky toward the northwest, moving perceptibly from night to night. The frequently flaring comet is expected to continue to brighten, on the average, and may even become visible with the unaided eye -- during the day -- to those in the path of totality of the coming solar eclipse on April 8.",
+            "date": "2024-04-22"
+        },
+        {
+            "id" : "16",
+            "image": "../images/potd/potd16.jpg",
+            "name" : "A January Wolf Moon",
+            "description": "Did you see the full moon last month? During every month, on average, a full moon occurs in the skies over planet Earth. This is because the Moon takes a month to complete another orbit around our home planet, goes through all of its phases, and once again has its entire Earth-facing half lit by reflected sunlight. Many indigenous cultures give each full moon a name, and this past full moon's names include the Ice Moon, the Stay at Home Moon, and the Quiet Moon. Occurring in January on the modern western calendar, several cultures have also named the most recent full moon the Wolf Moon, in honor of the famous howling animal. Featured here above the Italian Alps mountains, this past Wolf Moon was captured in combined long and short exposure images. The image is striking because, to some, the surrounding clouds appear as a wolf's mouth ready to swallow the Wolf Moon, while others see the Moon as a wolf's eye.",
+            "date": "2024-04-23"
+        },
+        {
+            "id" : "17",
+            "image": "../images/potd/potd17.jpg",
+            "name" : "NGC 7714: Starburst after Galaxy Collision",
+            "description": "Is this galaxy jumping through a giant ring of stars? Probably not. Although the precise dynamics behind the featured image is yet unclear, what is clear is that the pictured galaxy, NGC 7714, has been stretched and distorted by a recent collision with a neighboring galaxy. This smaller neighbor, NGC 7715, situated off to the left of the frame, is thought to have charged right through NGC 7714. Observations indicate that the golden ring pictured is composed of millions of older Sun-like stars that are likely co-moving with the interior bluer stars. In contrast, the bright center of NGC 7714 appears to be undergoing a burst of new star formation. The featured image was captured by the Hubble Space Telescope. NGC 7714 is located about 130 million light years away toward the constellation of the Two Fish (Pisces). The interactions between these galaxies likely started about 150 million years ago and should continue for several hundred million years more, after which a single central galaxy may result.",
+            "date": "2024-04-24"
+        },
+        {
+            "id" : "18",
+            "image": "../images/potd/potd18.jpg",
+            "name" : "ELT and the Milky Way",
+            "description": "The southern winter Milky Way sprawls across this night skyscape. Looking due south, the webcam view was recorded near local midnight on March 11 in dry, dark skies over the central Chilean Atacama desert. Seen below the graceful arc of diffuse starlight are satellite galaxies of the mighty Milky Way, also known as the Large and Small Magellanic clouds. In the foreground is the site of the European Southern Observatory's 40-metre-class Extremely Large Telescope (ELT). Under construction at the 3000 metre summit of Cerro Armazones, the ELT is on track to become planet Earth's biggest Eye on the Sky.",
+            "date": ""
+        },
+        {
+            "id" : "19",
+            "image": "../images/potd/potd19.jpg",
+            "name" : "The Seagull Nebula",
+            "description": "A broad expanse of glowing gas and dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker: the Seagull Nebula. This portrait of the cosmic bird covers a 2.5-degree wide swath across the plane of the Milky Way, near the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). Of course, the region includes objects with other catalog designations: notably NGC 2327, a compact, dusty emission and reflection nebula with an embedded massive star that forms the bird's head. Likely part of a larger shell structure swept up by successive supernova explosions, the broad Seagull Nebula is cataloged as Sh2-296 and IC 2177. The prominent bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.",
+            "date": "2024-04-25"
+        },
+        {
+            "id" : "20",
+            "image": "../images/potd/potd20.jpg",
+            "name" : "A Full Plankton Moon",
+            "description": "What glows in the night? This night featured a combination of usual and unusual glows. Perhaps the most usual glow was from the Moon, a potentially familiar object. The full Moon's nearly vertical descent results from the observer being near Earth's equator. As the Moon sets, air and aerosols in Earth's atmosphere preferentially scatter out blue light, making the Sun-reflecting satellite appear reddish when near the horizon. Perhaps the most unusual glow was from the bioluminescent plankton, likely less familiar objects. These microscopic creatures glow blue, it is thought, primarily to surprise and deter predators. In this case, the glow was caused primarily by plankton-containing waves crashing onto the beach. The image was taken on Soneva Fushi Island, Maldives just over one year ago.",
+            "date": "2024-04-26"
+        },
+        {
+            "id" : "21",
+            "image": "../images/potd/potd21.jpg",
+            "name" : "Light Pillars Over Inner Mongolia",
+            "description": "What's happening across that field? Pictured here are not auroras but nearby light pillars, a phenomenon typically much closer. In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere. Usually, these ice crystals evaporate before reaching the ground. During freezing temperatures, however, flat fluttering ice crystals may form near the ground in a form of light snow sometimes known as a crystal fog. These ice crystals may then reflect ground lights in columns not unlike a Sun pillar. The featured image was taken last month across the Wulan Butong Grasslands in Inner Mongolia, China.",
+            "date": "2024-04-27"
+        },
+        {
+            "id" : "22",
+            "image": "../images/potd/potd22.jpg",
+            "name" : "Odysseus and The Dish",
+            "description": " Murriyang, the CSIROs Parkes Radio Telescope, points toward a nearly Full Moon in this image from New South Wales, Australia, planet Earth. Bathed in moonlight, the 64 meter dish is receiving weak radio signals from Odysseus, following the robotic lander's February 22 touch down some 300 kilometers north of the Moon's south pole. The landing of Odysseus represents the first U.S. landing on the Moon since the Apollo 17 mission in 1972. Odysseus' tilted orientation on the lunar surface prevents its high-gain antenna from pointing toward Earth. But the sensitivity of the large, steerable Parkes dish significantly improved the reception of data from the experiments delivered to the lunar surface by the robotic moon lander. Of course the Parkes Radio Telescope dish became famous for its superior lunar television reception during the Apollo 11 mission in 1969, allowing denizens of planet Earth to watch the first moonwalk.",
+            "date": "2024-04-28"
+        },
+        {
+            "id" : "23",
+            "image": "../images/potd/potd23.jpg",
+            "name" : "Supernova Remnant Simeis 147",
+            "description": "It's easy to get lost following the intricate, looping, and twisting filaments of supernova remnant Simeis 147. Also cataloged as Sharpless 2-240, the filamentary nebula goes by the popular nickname the Spaghetti Nebula. Seen toward the boundary of the constellations of the Bull (Taurus) and the Charioteer (Auriga), the impressive gas structure covers nearly 3 degrees on the sky, equivalent to 6 full moons. That's about 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years. This composite image includes data taken through narrow-band filters isolating emission from hydrogen (red) and oxygen (blue) glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from this massive stellar explosion first reached the Earth when woolly mammoths roamed free. Besides the expanding remnant, this cosmic catastrophe left behind a pulsar, a spinning neutron star that is the remnant of the original star's core.",
+            "date": "2024-04-29"
+        },
+        {
+            "id" : "24",
+            "image": "../images/potd/potd24.jpg",
+            "name" : "Seagull Nebula over Pinnacles' Peak",
+            "description": "The bird is bigger than the peak. Nicknamed for its avian shape, the Seagull Nebula is an emission nebula on the night sky that is vast, spanning an angle over five times the diameter of the full moon and over 200 light years. The head of the nebula is catalogued as IC 2177, and the star cluster under its right wing is catalogued as NGC 2343. Consisting of mostly red-glowing hydrogen gas, the Seagull Nebula incorporates some dust lanes and is forming stars. The peak over which this Seagull seems to soar occurs at Pinnacles National Park in California, USA. The featured image is a composite of long exposure images of the background sky and short exposure images of the foreground, all taken consecutively with the same camera and from the same location.",
+            "date": "2024-04-30"
+        }
+    ],
+
+
+
+    "extroplanets": [     
+        {
+            "id": "1",
+            "name": " Four Planets and 68 Spectra",
+            "description": "We've added NGC 2682 Sand 1429 (a.k.a. S1429 b), CI Tau c (which swaps places with CI Tau b, which has been downgraded to a False Positive Planet), HD 77946 b, and TOI-4438 b to the archive this week. Access their data from the System Overview pages and the Planetary Systems and Planetary Systems Composite tables. There are also new parameter sets for eight planets that are already in the archive. New spectra include two taken by JWST's MIRI instrument of transiting exoplanet L 168-9 b, and 66 spectra obtained with NASA's Hubble and Spitzer Space Telescopes. Browse, visualize, and download the data with our Atmospheric Spectroscopy Table."
+        },
+        {
+            "id": "2",
+            "name": "Four Planets and New JWST Spectra Added",
+            "description": "This week's release has four new planets that bring our official confirmed planet count to 5,599. The new planets are HS Psc b, LHS 1678 d, TOI-1994 b, and TOI-4515 b. Click on their names to go directly to their System Overview pages, or browse all system parameters in the archive (including this week's new sets) with the Planetary Systems and Planetary Systems Composite tables. There are also new planet parameter sets for GJ 9827 b, c, & d and TOI-4201 b."
+        },
+        {
+            "id": "3",
+            "name": "Eight Planets, Including Teegarden Star's Third,",
+            "description": "This week's update adds another Earth-sized planet to the nearby Teegarden's Star system located ~12 light years from our own solar system. The new planets are Teegarden's Star d, TOI-904 b & c, TOI-1135 b, TOI-1199 b, TOI-1273 b, and TOI-1347 b & c. Click on their names to go directly to their System Overview pages, or browse all system parameters in the archive (including this week's new sets) with the Planetary Systems and Planetary Systems Composite tables."
+        },
+        {
+            "id": "4",
+            "name": "Ringing in the New Year With Three Planets",
+            "description": "This release features HD 63433 d—the closest, young, Earth-sized planet discovered to date! According to the discovery paper, this planet is located ~22 parsecs from Earth and is the smallest confirmed planet with an age less than 500 Myr. Two additional planets added this week are OGLE-2019-BLG-1180L b and KMT-2021-BLG-1770L b. The planets have been added to the Planetary Systems Table and its companion table the Planetary Systems Composite Table, where you can view, filter, sort, and download data. Their data are also available in our Microlensing Planets table."
+        },
+        {
+            "id": "5",
+            "name": "Nine Planets Added—Including an 'Oversized' One—And New Spectra",
+            "description": "For our final update of 2023, we welcome nine new planets that bring the archive's total confirmed planet count to 5,566! This week's update includes LHS 3154 b, a massive planet that appears to be too big for its host star. Read about it in the discovery paper and media release. We've also added new JWST MIRI transmission spectrum of WASP-107 b to the Atmospheric Spectroscopy Table. The other new planets are HD 112570 b, HD 154391 b, TOI-2373 b, TOI-2416 b, TOI-2524 b, TOI-4641 b, TOI-544 c, and KMT-2021-BLG-1547L b. Click on a planet name to view its System Overview page, or use either the Planetary Systems Table or its companion table the Planetary Systems Composite Table to view, filter, sort, and download data."
+        },
+        {
+            "id": "6",
+            "name": "A Census of Potential Host Stars Within 20 Parsecs of our Sun",
+            "description": "The 20pc Census from Kirkpatrick et al. 2024 is the most complete accounting of objects within 20 parsecs of the Sun, consisting of data on ~3,600 stars and brown dwarfs. These data were generated from a combination of all-sky and targeted observations and an extensive literature search, as well as the efforts of Backyard Worlds citizen scientists. Although primarily aimed at answering questions about star formation, this data product is an important step toward establishing a volume-complete set of exoplanets, which will eventually help solidify our understanding of planet formation efficiency and frequency."
+        },
+        {
+            "id": "7",
+            "name": "Eleven New Planets, Including AU Mic d",
+            "description": "This week's release includes a new member of the AU Microscopii system: AU Mic d, which was validated using transit timing variations. Read the discovery paper for details. The other new planets are GJ 806 b & c, TOI-1736 b & c, TOI-2010 b, TOI-2134 b & c, TOI-2141 b, TOI-4377 b, and TOI-4551 b. "
+        },
+        {
+            "id": "8",
+            "name": "Five Giant Planets and TRAPPIST-1 h Spectrum",
+            "description": "We've added five giant planets that have temperatures ranging from hot to cold, plus atmospheric spectra for seven planets—including TRAPPIST-1 h! The new planets are HAT-P-2 c, TOI-199 b & c, TOI-858 B b, and TOI-1408 b; click on a planet name to view its System Overview page, or use either the Planetary Systems Table or its companion table the Planetary Systems Composite Table to view, filter, sort, and download data. The planets with new atmospheric spectra are HAT-P-41 b, HD 189733 b, KELT-9 b, KELT-20 b, WASP-79 b, WASP-178 b, and TRAPPIST-1 h. "
+        },
+        {
+            "id": "9",
+            "name": "Nine Planets, Including JWST's First Confirmed Planet",
+            "description": "This week's nine new planets include LHS 475 b, a planet almost the exact same size as Earth and also the first planet to be confirmed by NASA's James Webb Space Telescope. Check out the archive's System Overview page, the discovery paper, and NASA's media release. The remaining eight new planets added this week are 75 Cet c, HD 99492 c, HIP 113103 b & c, TOI-1853 b, TOI-4201 b, and TOI-4600 b & c. Click on a planet name in the above list to view its System Overview page, or use either the Planetary Systems Table or its companion table the Planetary Systems Composite Table to view, filter, sort, and download data."
+        },
+        {
+            "id": "10",
+            "name": "Thirteen Planets, Seventeen Spectra",
+            "description": "This week we have added thirteen new planets to the NASA Exoplanet Archive, spanning a range of sizes and detection techniques. The new planets are HD 73256 c, HD 75302 b, HD 108202 b, HD 135625 b, HD 185283 b, TOI-332 b, GJ 9404 b, HIP 29442 b,c, and d, KMT-2021-BLG-2010L b, KMT-2022-BLG-0371L b, and KMT-2022-BLG-1013L b. This week's update brings the archive's total planet count to 5,514. We have also added seventeen new atmospheric spectra, including both transmission and emission spectroscopy. These spectra are for WASP-127 b, WASP-79 b, WASP-62 b, CoRoT-1 b, HD 189733 b, TrES-3 b, WASP-4 b, WASP-12 b, HAT-P-7 b, HAT-P-32 b, HAT-P-41 b, HD 209458 b, KELT-1 b, WASP-117 b, Kepler-138 d, and KELT-9 b."
+        }
+    ]
+}
