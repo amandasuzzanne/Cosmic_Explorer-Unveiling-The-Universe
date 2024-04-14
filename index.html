@@ -45,6 +45,40 @@
         </section>
 
         <section id="weather">
+            <div class="tab">
+                <button class="tablinks active" data-tab="solar-flare">Solar Flare</button>
+                <button class="tablinks" data-tab="geomagnetic-storm">Geomagnetic Storm</button>
+            </div>
+
+            <div id="solar-flare" class="tabcontent show">
+                <h3>Solar Flare Data</h3>
+                <table id="solar-flare-table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Intensity</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="geomagnetic-storm" class="tabcontent">
+                <h3>Geomagnetic Storm Data</h3>
+                <table id="geomagnetic-storm-table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Magnitude</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Data will be populated here -->
+                    </tbody>
+                </table>
+            </div>
 
         </section>
 
