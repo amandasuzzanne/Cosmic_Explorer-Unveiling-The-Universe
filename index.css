@@ -130,7 +130,9 @@ main {
 
 
 
-/* Style for the satellite section */
+
+
+
 #satellite {
     max-width: 1200px;
     margin: 0 auto;
@@ -139,7 +141,6 @@ main {
     justify-content: space-evenly; 
     align-items: center; 
     color: var(--primary-color);
-
 }
 
 /* Style for each section */
@@ -160,29 +161,86 @@ main {
     margin-bottom: 10px;
   }
 
-  #sateellite-image {
-    background-color: transparent; 
-  }
-
   #satellite-image img {
     width: 100%; 
     height: auto; 
   }
 
 
+
+/* Style for the satellite container */
+#satellite {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 100px 20px;
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center; 
+    color: var(--primary-color);
+}
+
+.satellite-container {
+    margin-top: 20px;
+  }
+  
+  /* Style for the heading */
+  #satellite-heading {
+    text-align: center;
+  }
+  
+  /* Style for the row containing date list and image */
+  .row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Style for the date list */
+  .date-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    flex-grow: 1; /* Grow to take remaining space */
+  }
+  
+  /* Style for date list items */
+  .date-item {
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+  }
+  
+  /* Style for the image container */
+  #satellite-image {
+    flex-grow: 1; /* Grow to take remaining space */
+  }
+  
+  /* Style for the image */
+  #satellite-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+  }
+
+  #satellite-details {
+    text-align: center;
+  }
+  
+
+
 #weather {
     max-width: 1200px;
     margin: 0 auto;
     padding: 100px 20px;
-    color: var(--primary-color);
-
 }
 
 /* Style the tab buttons */
 .tab {
     overflow: hidden;
     border: 1px solid #ccc;
-    background-color: #f1f1f1;
+    background-color: var(--primary-color);
   }
   
   .tab button {
@@ -210,6 +268,9 @@ main {
     padding: 20px;
     border: 1px solid #ccc;
     border-top: none;
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+
   }
   
   .tabcontent.show {
@@ -221,6 +282,8 @@ main {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
+    color: var(--secondary-color);
+
   }
   
   table th, table td {
@@ -230,7 +293,9 @@ main {
   }
   
   table th {
-    background-color: #f2f2f2;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+
   }
   
 
@@ -290,12 +355,17 @@ main {
     margin: 0 auto;
     padding: 100px 20px;
 }
+
+#exoplanets h1 {
+    color: var(--primary-color);
+    text-align: center;
+}
+
 .collapsible-header {
     display: flex;
     align-items: center;
     padding: 15px;
-    background-color: #f0f0f0;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #f5f5f3;;
     cursor: pointer;
 }
 
