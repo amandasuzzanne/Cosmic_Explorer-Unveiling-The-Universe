@@ -5,48 +5,48 @@
             "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
             "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/08/png/epic_1b_20240408173250.png",
             "date": "2024-04-08",
-            "distance to earth": "981,998 miles",
-            "distance to sun": "92,110,371 miles"
+            "distance-to-earth": "981,998 miles",
+            "distance-to-sun": "92,110,371 miles"
         },
         {
             "id": "2",
             "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
             "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/07/png/epic_1b_20240407115250.png",
             "date": "2024-04-07",
-            "distance to earth": "980,701 miles",
-            "distance to sun": "92,075,375 miles"
+            "distance-to-earth": "980,701 miles",
+            "distance-to-sun": "92,075,375 miles"
         },
         {
             "id": "3",
             "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
             "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/06/png/epic_1b_20240406113407.png",
             "date": "2024-04-06",
-            "distance to earth": "979,693 miles",
-            "distance to sun": "92,053,331 miles"
+            "distance-to-earth": "979,693 miles",
+            "distance-to-sun": "92,053,331 miles"
         },
         {
             "id": "4",
             "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
             "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/04/png/epic_1b_20240404034434.png",
             "date": "2024-04-05",
-            "distance to earth": "976,376 miles",
-            "distance to sun": "91,994,048 miles"
+            "distance-to-earth": "976,376 miles",
+            "distance-to-sun": "91,994,048 miles"
         },
         {
             "id": "4",
             "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
             "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/03/png/epic_1b_20240403054158.png",
             "date": "2024-04-04",
-            "distance to earth": "974,891 miles",
-            "distance to sun": "91,970,706 miles"
+            "distance-to-earth": "974,891 miles",
+            "distance-to-sun": "91,970,706 miles"
         }, 
         {
             "id": "",
             "caption": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft",
             "image": "https://epic.gsfc.nasa.gov/archive/natural/2024/04/02/png/epic_1b_20240402003634.png",
             "date": "2024-04-03",
-            "distance to earth": "972,849 miles",
-            "distance to sun": "91,9393,957 miles"
+            "distance-to-earth": "972,849 miles",
+            "distance-to-sun": "91,9393,957 miles"
         }
     ],
 
